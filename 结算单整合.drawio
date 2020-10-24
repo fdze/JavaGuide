@@ -1,1 +1,100 @@
-<mxfile host="app.diagrams.net" modified="2020-10-24T02:43:30.942Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" version="13.8.1" etag="2mXeiIWbcXGgkBEj_ASB" type="github"><diagram id="ZvT8qRB5lOMpPSMuzQj6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-24T07:50:15.207Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="TU2XeAz2N9xk1LOKA8Tz" version="13.8.1" type="github">
+  <diagram id="ZvT8qRB5lOMpPSMuzQj6" name="Page-1">
+    <mxGraphModel dx="1293" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yI4PQBQ8esMdKVCEDkn8-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="650" width="366" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="yI4PQBQ8esMdKVCEDkn8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yI4PQBQ8esMdKVCEDkn8-1" target="yI4PQBQ8esMdKVCEDkn8-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="330" />
+              <mxPoint x="455" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yI4PQBQ8esMdKVCEDkn8-9" value="通过账扣取得结算单范围" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yI4PQBQ8esMdKVCEDkn8-8">
+          <mxGeometry x="-0.5862" y="35" relative="1" as="geometry">
+            <mxPoint x="35" y="35" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yI4PQBQ8esMdKVCEDkn8-1" value="账扣" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yI4PQBQ8esMdKVCEDkn8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yI4PQBQ8esMdKVCEDkn8-2" target="yI4PQBQ8esMdKVCEDkn8-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="330" />
+              <mxPoint x="455" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yI4PQBQ8esMdKVCEDkn8-12" value="通过票扣计算结算单计算范围" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yI4PQBQ8esMdKVCEDkn8-10">
+          <mxGeometry x="-0.7673" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yI4PQBQ8esMdKVCEDkn8-2" value="票扣" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yI4PQBQ8esMdKVCEDkn8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yI4PQBQ8esMdKVCEDkn8-3" target="yI4PQBQ8esMdKVCEDkn8-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yI4PQBQ8esMdKVCEDkn8-3" value="结算单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yI4PQBQ8esMdKVCEDkn8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yI4PQBQ8esMdKVCEDkn8-4" target="yI4PQBQ8esMdKVCEDkn8-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="330" />
+              <mxPoint x="455" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yI4PQBQ8esMdKVCEDkn8-4" value="收货" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yI4PQBQ8esMdKVCEDkn8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yI4PQBQ8esMdKVCEDkn8-5" target="yI4PQBQ8esMdKVCEDkn8-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="330" />
+              <mxPoint x="455" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yI4PQBQ8esMdKVCEDkn8-5" value="退货" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yI4PQBQ8esMdKVCEDkn8-6" value="以结算单号为主键，一条结算单一条数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="130" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yI4PQBQ8esMdKVCEDkn8-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yI4PQBQ8esMdKVCEDkn8-7" target="yI4PQBQ8esMdKVCEDkn8-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yI4PQBQ8esMdKVCEDkn8-7" value="计算本次计算的数据范围，并非每次都拿所有数据(结算单)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="390" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yI4PQBQ8esMdKVCEDkn8-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yI4PQBQ8esMdKVCEDkn8-17" target="yI4PQBQ8esMdKVCEDkn8-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yI4PQBQ8esMdKVCEDkn8-17" value="按照数据进行分组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="525" width="230" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="yI4PQBQ8esMdKVCEDkn8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yI4PQBQ8esMdKVCEDkn8-19" target="yI4PQBQ8esMdKVCEDkn8-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yI4PQBQ8esMdKVCEDkn8-19" value="查询其他关联数据(票扣，账扣)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="670" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yI4PQBQ8esMdKVCEDkn8-21" value="结果入库(存在则删除)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="790" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yI4PQBQ8esMdKVCEDkn8-24" value="循环执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="646" y="650" width="64" height="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
